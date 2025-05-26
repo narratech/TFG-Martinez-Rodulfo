@@ -28,7 +28,10 @@ Este proyecto explora el uso de técnicas de generación procedimental de escena
 
 ### 🛠 Requisitos Previos
 
-Asegúrate de que la herramienta **Dungeon Architect** esté correctamente instalada en tu proyecto de Unreal Engine 5.
+Tener **Dungeon Architect** instalado es un requisito obligatorio para el correcto funcionamiento de esta herramienta.  
+Puedes adquirir Dungeon Architect en el Unreal Marketplace desde el siguiente enlace:  
+[https://www.unrealengine.com/marketplace/en-US/product/dungeon-architect](https://www.unrealengine.com/marketplace/en-US/product/dungeon-architect)
+
 
 #### 🔧 Instalación Manual de Dungeon Architect (si no lo tienes instalado)
 
